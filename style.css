@@ -1,0 +1,133 @@
+body{
+    background-image: url('bgi.jpg');
+    font-family: Arial;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid gold;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+h1{
+    font-size: 30px;
+    color: white;
+}
+
+.main-2{
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+h2{   
+    color: black;
+    text-decoration: none; 
+    background-color: gold;
+    border-radius: 8px;
+    display:inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px; 
+}
+
+.name{
+    text-decoration: none;
+}
+
+h2:hover{
+    background-color: orange;
+    color: red;
+    border: 2px solid red;
+}
+
+h3{
+    background-color: gold;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    font-style: italic;
+}
+
+p{
+    font-family: Arial;
+    color: white;
+   text-indent: 30px;
+}
+
+h4{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: gold;
+}
+
+hr{
+    box-shadow: 0 1px 1px grey;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td,th{
+    border-width: 1px;
+    border: 1px solid white;  
+    color: white;  
+    padding: 8px;  
+}
+
+.head{
+    background-color: gold;
+    color:black;
+    height: 30px;
+    width: 200px;  
+    margin-left:25px;
+    padding-left: 5px;   
+}
+
+.level{
+ text-align: left;
+}
+
+.h4-2{
+    background-color: gold;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    font-style: italic;
+}
+ul,li{
+    margin-left:6px;
+    padding-left: 5px;
+}
+
+ol{
+    margin-left: 25px;
+    padding-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
